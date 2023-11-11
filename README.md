@@ -7,4 +7,6 @@ Customized datasets of people and cars:
 
 An Example of Object Detection:
 
+![yolov5s](https://github.com/Cam2024/Object-detection-model-training-for-yolov5/assets/89662823/3030cc91-60ba-4c40-b044-d8fdd8ff938a)
+
 <img width="325" alt="屏幕截图 2023-08-01 154157" src="https://github.com/Cam2024/Object-detection-model-training-for-yolov5/assets/89662823/83b7b189-723b-4787-8350-1154467a5c1f">
